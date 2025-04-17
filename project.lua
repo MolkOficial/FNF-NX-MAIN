@@ -3,7 +3,7 @@ return {
 
 	title = "NX Interface To FNF",
 	file = "FNF-NX",
-	icon = "art/icon.png",
+	icon = "assets/images/window/logo.png",
 	version = "0.0.1a?",
 	package = "fanengine.molk.fnfnx",
 	width = 1280,
