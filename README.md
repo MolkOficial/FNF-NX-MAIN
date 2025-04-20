@@ -2,5 +2,7 @@
 
  Attempt to port the Nintendo© NX interface to FNF: LÖVE (like the wii interface of the “WII Funkin”).
 
+## Discord Server
+### [Invitation](https://discord.gg/JhgJuYRcuP)
 
 
